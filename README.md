@@ -16,7 +16,7 @@
 
 git clone 명령어로, BeLight 저장소를 클론한다.
 
-    git clone https://github.com/be-light/be-light.git
+    git clone https://github.com/osam2019/WEB_BeLight_Team.git
 
 ## 패키지 설치
 
@@ -80,7 +80,7 @@ script(async  defer  src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_K
 
 git clone 명령어로, BeLight 저장소를 클론한다.
 
-    git clone https://github.com/be-light/be-light.git
+    git clone https://github.com/osam2019/App_Be-Light_Team.git
     
 ## Installation
 
